@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-1112131415
-=======
-masterflomaster
->>>>>>> master
+1
