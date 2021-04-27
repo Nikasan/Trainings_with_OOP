@@ -1,1 +1,2 @@
 1 commit from feature_2
+2 commit from feature_2
