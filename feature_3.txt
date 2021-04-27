@@ -1,1 +1,1 @@
-2 commit from feature 3
+3 commit from feature 3
