@@ -1,0 +1,13 @@
+The Factory Method pattern
+
+  The Factory Method pattern defines an interface for creating an object,
+  but lets subclasses decide which class to instantiate.
+  Factory Method lets a class defer instantiation to subclasses.
+
+  The Simple Factory Pattern decouples the process of creating and using objects from the clients.
+  The Factory pattern encapsulates object creation logic, which makes it easy to change later.
+
+  https://refactoring.guru/ru/design-patterns/factory-method
+  Фабричный метод — это порождающий паттерн проектирования,
+  который определяет общий интерфейс для создания объектов в суперклассе,
+  позволяя подклассам изменять тип создаваемых объектов.

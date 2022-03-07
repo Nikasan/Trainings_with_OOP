@@ -1,9 +1,11 @@
 package oopTraining;
 
 public class Mazda extends Car {
+final int fuel;
 
     Mazda(){
         System.out.println("mazda constructor");
+        fuel = 45;
     }
     private String sound = "I am mazda";
 
